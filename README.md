@@ -5,6 +5,7 @@
 * https://www.krollontrack.com/blog/2017/05/04/future-sata-sas/ SATA, SAS, NVMe是同一层次的概念，都是Disk的访问协议。SAS更适于SSD, NVMe应该是专门为SSD开发的访问协议。
 * SAS在物理层兼容SATA标准。 SAS用在企业级
 * SAS https://www.snia.org/sites/default/education/tutorials/2007/spring/networking/SAS-Overview.pdf
+* 读了SCSI的wikipeda: SCSI是一个标准集，这个标准集目标是连接**计算机系统和外围设备**。标准包含了命令集，协议，电子和光学接口。主要用于硬盘。类比，以太网技术的目标是连接计算机。TCP/IP的目标是连接网络。
 
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
