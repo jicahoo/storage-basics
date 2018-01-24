@@ -12,6 +12,7 @@
 ## 数据保护参考
 * https://www.snia.org/sites/default/files/SDC15_presentations/datacenter_infra/Shenoy_The_Pros_and_Cons_of_Erasure_v3-rev.pdf
 * https://ceph.com/planet/erasure-coding-in-ceph/
+* 一个Veeam (数据保护公司）的人写的，关于数据保护技术Erasure Coding. https://www.virtualtothecore.com/en/erasure-coding-best-data-protection-scaling/
 
 ## 发展趋势的一些判断
 * 单个磁盘的容量越来越大，但是读写速度没有跟上磁盘容量的上涨，而RAID提出是针对当时的磁盘大小和读写速度的，所以，RAID技术在大磁盘时代，不一定完全适用，会出现一些瓶颈。所以有些新技术来解决这些问题。需要更多的数据支持,权威资料支持。
