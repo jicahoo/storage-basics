@@ -6,6 +6,7 @@
 
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
+* RAID 0 使用条带化， RAID 1使用镜像，RAID 5使用条带化和校验码，RAID 10是 RAID 1 + RAID 0, 镜像上的条带化。
 * https://www.thegeekstuff.com/2010/08/raid-levels-tutorial
 
 
