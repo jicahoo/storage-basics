@@ -4,6 +4,11 @@
 * PCIe: https://en.wikipedia.org/wiki/PCI_Express
 * https://www.krollontrack.com/blog/2017/05/04/future-sata-sas/ SATA, SAS, NVMe是同一层次的概念，都是Disk的访问协议。SAS更适于SSD, NVMe应该是专门为SSD开发的访问协议。
 
+# RAID技术
+* 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
+* https://www.thegeekstuff.com/2010/08/raid-levels-tutorial
+
+
 # 数据保护
 * 复制(replicate)
 * RAID
