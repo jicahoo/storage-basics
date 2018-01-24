@@ -7,4 +7,4 @@
 # 数据保护
 * 复制(replicate)
 * RAID
-* Erasure Coding.
+* Erasure Coding. (https://ceph.com/planet/erasure-coding-in-ceph/)
