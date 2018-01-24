@@ -7,4 +7,8 @@
 # 数据保护
 * 复制(replicate)
 * RAID
-* Erasure Coding. (https://ceph.com/planet/erasure-coding-in-ceph/)
+* Erasure Coding.
+
+## 数据保护参考
+* https://www.snia.org/sites/default/files/SDC15_presentations/datacenter_infra/Shenoy_The_Pros_and_Cons_of_Erasure_v3-rev.pdf
+* https://ceph.com/planet/erasure-coding-in-ceph/
