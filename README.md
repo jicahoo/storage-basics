@@ -40,7 +40,8 @@
 * Ceph, ScaleIO, vSAN
 
 ### 分布式键值存储
-* Amazon Dynamo
+* Amazon Dynamo: 
+  * http://web.engr.illinois.edu/~pbg/courses/cs598fa10/readings/dynamo.pdf
 * Redis, Memcache
 
 ## 分布式数据库
@@ -48,7 +49,8 @@
 * Microsoft SQL Azure
 * Google Spanner
 * Greenplum
-* Cassandra
+* Cassandra (P2P)
+* Amzon DynamoDB
 * MonogoDB
 
 ## 分布式表格系统
