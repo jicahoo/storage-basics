@@ -59,7 +59,7 @@
 * Amazon DynamoDB. 既支持文档，又支持键值。
 * MonogoDB
 
-## 分布式表格系统
+## 分布式表格系统 ?
 * Google Big Table, Google Megastore
 * Windows Azure Storage.
 
