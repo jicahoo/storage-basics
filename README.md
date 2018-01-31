@@ -32,6 +32,7 @@
 
 ### 分布式文件系统
 * GFS, GlusterFS, GPFS
+* Islion OneFS
 
 ### 分布式块存储
 * Ceph, ScaleIO, vSAN
@@ -51,3 +52,9 @@
 ## 分布式表格系统
 * Google Big Table, Google Megastore
 * Windows Azure Storage.
+
+## 分布式对象存储
+* Openstack swift
+* Ceph
+* Hegvig
+* EMC ECS
