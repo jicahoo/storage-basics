@@ -58,5 +58,5 @@
 ## 分布式对象存储
 * Openstack swift
 * Ceph
-* Hegvig
+* Hedvig (文档数据库)
 * EMC ECS
