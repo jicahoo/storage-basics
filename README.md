@@ -41,6 +41,8 @@
 * Redis, Memcache
 
 ## 分布式数据库
+* Microsoft SQL Azure
+* Google Spanner
 * Greenplum
 * Cassandra
 * MonogoDB
