@@ -7,7 +7,7 @@
 * SAS https://www.snia.org/sites/default/education/tutorials/2007/spring/networking/SAS-Overview.pdf
 * 读了SCSI的wikipeda: SCSI是一个标准集，这个标准集目标是连接**计算机系统和外围设备**。标准包含了命令集，协议，电子和光学接口。主要用于硬盘。类比，以太网技术的目标是连接计算机。TCP/IP的目标是连接网络。
 
-# ATA vs SATA
+# PATA vs SATA
 * 为什么Serial的，反而性能高？https://en.wikipedia.org/wiki/Serial_communication vs https://en.wikipedia.org/wiki/Parallel_communication
 
 # RAID技术
