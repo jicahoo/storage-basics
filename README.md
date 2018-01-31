@@ -27,3 +27,24 @@
 
 ## 发展趋势的一些判断
 * 单个磁盘的容量越来越大，但是读写速度没有跟上磁盘容量的上涨，而RAID提出是针对当时的磁盘大小和读写速度的，所以，RAID技术在大磁盘时代，不一定完全适用，会出现一些瓶颈。所以有些新技术来解决这些问题。需要更多的数据支持,权威资料支持。
+
+## 分布式存储
+
+### 分布式文件系统
+* GFS, GlusterFS, GPFS
+
+### 分布式块存储
+* Ceph, ScaleIO, vSAN
+
+### 分布式键值存储
+* Amazon Dynamo
+* Redis, Memcache
+
+## 分布式数据库
+* Greenplum
+* Cassandra
+* MonogoDB
+
+## 分布式表格系统
+* Google Big Table, Google Megastore
+* Windows Azure Storage.
