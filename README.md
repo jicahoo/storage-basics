@@ -61,9 +61,7 @@
 
 ## 分布式表格系统 ?
 * Google Big Table, Google Megastore
-* Windows Azure Storage.
-
-
+* Windows Azure Storage
 
 ## 专用分布式存储系统
 * 搜索：Elastic Search
