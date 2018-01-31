@@ -57,7 +57,10 @@
 * Greenplum
 * Cassandra (P2P)
 * Amazon DynamoDB. 既支持文档，又支持键值。
-* MonogoDB
+
+## 分布式文档数据库
+* CouchDB
+* MongoDB
 
 ## 分布式表格系统 ?
 * Google Big Table, Google Megastore
