@@ -60,3 +60,6 @@
 * Ceph
 * Hedvig (文档数据库)
 * EMC ECS
+
+## 专用分布式存储系统
+* 搜索：Elastic Search
