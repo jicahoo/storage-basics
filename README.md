@@ -50,7 +50,7 @@
 * Google Spanner
 * Greenplum
 * Cassandra (P2P)
-* Amzon DynamoDB
+* Amazon DynamoDB. 既支持文档，又支持键值。
 * MonogoDB
 
 ## 分布式表格系统
