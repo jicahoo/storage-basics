@@ -31,7 +31,8 @@
 ## 分布式存储
 
 ### 分布式文件系统
-* GFS, GlusterFS, GPFS
+* GFS, HDFS
+* GlusterFS, GPFS
 * Islion OneFS
 * 图片存储专用系统：Taobao File System, Facebook Haystack.
 
