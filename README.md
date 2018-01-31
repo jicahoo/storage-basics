@@ -41,6 +41,7 @@
 * Redis, Memcache
 
 ## 分布式数据库
+* MySQL Sharding
 * Microsoft SQL Azure
 * Google Spanner
 * Greenplum
