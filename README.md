@@ -39,6 +39,9 @@
 ## 分布式对象存储
 * Openstack swift
 * Ceph
+ * http://docs.ceph.com/docs/master/start/intro/
+ * RADOS: https://ceph.com/wp-content/uploads/2016/08/weil-rados-pdsw07.pdf
+ * CRUSH: https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf
 * Hedvig (文档数据库)
 * EMC ECS
 
