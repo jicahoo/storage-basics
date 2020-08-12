@@ -11,7 +11,11 @@
 
 # PATA vs SATA
 * 为什么Serial的，反而性能高？https://en.wikipedia.org/wiki/Serial_communication vs https://en.wikipedia.org/wiki/Parallel_communication
+# NVMe
+* https://searchstorage.techtarget.com/definition/NVMe-over-FC-Nonvolatile-Memory-Express-over-Fibre-Channel
 
+# SCM
+# NVRAM
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
 * RAID 0 使用条带化， RAID 1使用镜像，RAID 5使用条带化和校验码，RAID 10是 RAID 1 + RAID 0, 镜像上的条带化。
