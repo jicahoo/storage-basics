@@ -13,7 +13,7 @@
 * 为什么Serial的，反而性能高？https://en.wikipedia.org/wiki/Serial_communication vs https://en.wikipedia.org/wiki/Parallel_communication
 # NVMe
 * https://searchstorage.techtarget.com/definition/NVMe-over-FC-Nonvolatile-Memory-Express-over-Fibre-Channel
-* https://www.ibm.com/downloads/cas/MLAEO6R8
+* https://www.ibm.com/downloads/cas/MLAEO6R8 (Very good book on NVMe)
 
 # SCM
 # NVRAM
