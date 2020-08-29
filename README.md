@@ -29,6 +29,9 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 # NVM
 # Persistent Memory
 
+# Flash Memory
+* Flash memory summit: https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2018/20180806_PreConC_Webb.pdf
+
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
 * RAID 0 使用条带化， RAID 1使用镜像，RAID 5使用条带化和校验码，RAID 10是 RAID 1 + RAID 0, 镜像上的条带化。
