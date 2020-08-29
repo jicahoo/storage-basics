@@ -25,6 +25,10 @@
 * The Top 20 Things to Know About SSD
 https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-product/en-us/docs/ssd-faq-tp612-2-1103us.pdf#:~:text=The%20Top%2020%20Things%20to%20Know%20About%20SSD,Ang%20Mo%20Kio%20Avenue%205%2C%20Singapore%20569877%2C%2065-6485-3888
 # SCM
+* https://blocksandfiles.com/2018/11/28/2019-the-year-of-storage-class-memory/
+* https://blog.netapp.com/storage-class-memory-what-is-next-in-enterprise-storage/
+* https://researcher.watson.ibm.com/researcher/files/us-gwburr/Almaden_SCM_overview_Jan2013.pdf
+
 # NVRAM
 # NVM
 # Persistent Memory
