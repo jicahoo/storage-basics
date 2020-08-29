@@ -39,6 +39,10 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 # 3D XPoint
 * https://en.wikipedia.org/wiki/3D_XPoint
 
+# Standard
+* SNIA
+* JEDEC
+
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
 * RAID 0 使用条带化， RAID 1使用镜像，RAID 5使用条带化和校验码，RAID 10是 RAID 1 + RAID 0, 镜像上的条带化。
