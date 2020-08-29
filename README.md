@@ -15,6 +15,9 @@
 * https://searchstorage.techtarget.com/definition/NVMe-over-FC-Nonvolatile-Memory-Express-over-Fibre-Channel
 * https://www.ibm.com/downloads/cas/MLAEO6R8 (Very good book on NVMe)
 
+# Flash Memory
+* 杂谈闪存二：NOR和NAND Flash https://zhuanlan.zhihu.com/p/26745577
+
 # SCM
 # NVRAM
 # RAID技术
