@@ -43,9 +43,9 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 * SNIA
 * JEDEC
 
-# 
-* SSD中，SATA、m2、PCIE和NVME各有什么意义呢？ - 褚道长的回答 - 知乎
-https://www.zhihu.com/question/48972075/answer/521468195
+# 概念区分
+* SSD中，SATA、m2、PCIE和NVME各有什么意义呢？ - 知乎用户的回答 - 知乎 https://www.zhihu.com/question/48972075/answer/253574912 https://www.userbenchmark.com/Faq/What-s-the-difference-between-SATA-PCIe-and-NVMe/105
+* SSD中，SATA、m2、PCIE和NVME各有什么意义呢？ - 褚道长的回答 - 知乎 https://www.zhihu.com/question/48972075/answer/521468195
 ```text
 作者：褚道长
 链接：https://www.zhihu.com/question/48972075/answer/521468195
