@@ -21,6 +21,9 @@
 * 杂谈闪存三：FTL https://zhuanlan.zhihu.com/p/26944064
 * 杂说闪存四：闪存硬盘接口大比拼 https://zhuanlan.zhihu.com/p/27068849
 
+# SSD
+* The Top 20 Things to Know About SSD
+https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-product/en-us/docs/ssd-faq-tp612-2-1103us.pdf#:~:text=The%20Top%2020%20Things%20to%20Know%20About%20SSD,Ang%20Mo%20Kio%20Avenue%205%2C%20Singapore%20569877%2C%2065-6485-3888
 # SCM
 # NVRAM
 # RAID技术
