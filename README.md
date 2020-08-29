@@ -26,6 +26,9 @@
 https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-product/en-us/docs/ssd-faq-tp612-2-1103us.pdf#:~:text=The%20Top%2020%20Things%20to%20Know%20About%20SSD,Ang%20Mo%20Kio%20Avenue%205%2C%20Singapore%20569877%2C%2065-6485-3888
 # SCM
 # NVRAM
+# NVM
+# Persistent Memory
+
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
 * RAID 0 使用条带化， RAID 1使用镜像，RAID 5使用条带化和校验码，RAID 10是 RAID 1 + RAID 0, 镜像上的条带化。
