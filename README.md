@@ -17,6 +17,9 @@
 
 # Flash Memory
 * 杂谈闪存二：NOR和NAND Flash https://zhuanlan.zhihu.com/p/26745577
+* 杂说闪存一：关公战秦琼之 UFS VS NVMe https://zhuanlan.zhihu.com/p/26652622
+* 杂谈闪存三：FTL https://zhuanlan.zhihu.com/p/26944064
+* 杂说闪存四：闪存硬盘接口大比拼 https://zhuanlan.zhihu.com/p/27068849
 
 # SCM
 # NVRAM
