@@ -13,7 +13,7 @@
 * 为什么Serial的，反而性能高？https://en.wikipedia.org/wiki/Serial_communication vs https://en.wikipedia.org/wiki/Parallel_communication
 # NVMe
 * https://searchstorage.techtarget.com/definition/NVMe-over-FC-Nonvolatile-Memory-Express-over-Fibre-Channel
-* https://www.ibm.com/downloads/cas/MLAEO6R8 (Very good book on NVMe)
+* https://www.ibm.com/downloads/cas/MLAEO6R8 (Very good book on NVMe) NVMe over Fibre Channel For dummies
 
 # Flash Memory
 * 杂谈闪存二：NOR和NAND Flash https://zhuanlan.zhihu.com/p/26745577
