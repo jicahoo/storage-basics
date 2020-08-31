@@ -21,6 +21,7 @@
 * 在linux系统中配置NVMe over TCP https://www.cnblogs.com/JamesLi/p/11399054.html
 * NVMe over Fabrics 技术特征 https://www.cnblogs.com/JamesLi/p/11511082.html
 * Discovery服务过程跟踪 https://www.cnblogs.com/JamesLi/p/11498305.html
+* 《NVM-Express-1_4-2019.06.10-Ratified》学习笔记（8.20）-- ANA https://www.cnblogs.com/JamesLi/p/11448557.html
 
 
 # Flash Memory
