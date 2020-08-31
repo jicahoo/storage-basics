@@ -20,6 +20,8 @@
 * 详谈NVMe和NVMe-oF架构和知识点 https://blog.csdn.net/btb5e6nsu1g511eg5xeg/article/details/96398907
 * 在linux系统中配置NVMe over TCP https://www.cnblogs.com/JamesLi/p/11399054.html
 * NVMe over Fabrics 技术特征 https://www.cnblogs.com/JamesLi/p/11511082.html
+* Discovery服务过程跟踪 https://www.cnblogs.com/JamesLi/p/11498305.html
+
 
 # Flash Memory
 * 杂谈闪存二：NOR和NAND Flash https://zhuanlan.zhihu.com/p/26745577
