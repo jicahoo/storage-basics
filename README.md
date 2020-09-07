@@ -58,6 +58,7 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 * https://searchstorage.techtarget.com/tip/3-key-problems-computational-storage-devices-can-solve
 * https://www.snia.org/education/what-is-computational-storage#:~:text=Computational%20Storage%20is%20defined%20as%20architectures%20that%20provide,and%20data%20are%20associated%20with%20a%20storage%20device.
 * FPGA storage https://www.intel.com/content/www/us/en/products/docs/storage/programmable/applications/storage.html
+* https://www.bittware.com/fpga/storage/
 
 # 概念区分
 * SSD中，SATA、m2、PCIE和NVME各有什么意义呢？ - 知乎用户的回答 - 知乎 https://www.zhihu.com/question/48972075/answer/253574912 https://www.userbenchmark.com/Faq/What-s-the-difference-between-SATA-PCIe-and-NVMe/105
