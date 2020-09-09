@@ -42,6 +42,9 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 # NVM
 # Persistent Memory
 
+# SSD KV value 
+* https://zhuanlan.zhihu.com/p/81845484
+
 # Flash Memory
 * Flash memory summit: https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2018/20180806_PreConC_Webb.pdf
 
