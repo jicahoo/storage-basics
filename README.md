@@ -79,6 +79,9 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 4. 总结M.2,U.2,AIC 是物理规格，像是 公路，铁路。PCIe，SATA，SAS 是 模拟高速接口，像是 县道，省道，高速这样。速率上限不同SCSI，ATA，NVMe 是传输层协议，命令集。就是跑在路上面的小车，只是有 跑车 和 面包车 之分。所以，如果要买SSD的话，不是只看 M.2就完事了 ，得分清了 是 SATA 的，还是 NVMe 的，看看主板支持的到底是哪种。否则，买回来的东西可能会用不了！原创手打，能力有限，欢迎大家指错。
 ```
 
+# 半导体
+* http://m.elecfans.com/article/928703.html
+
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
 * RAID 0 使用条带化， RAID 1使用镜像，RAID 5使用条带化和校验码，RAID 10是 RAID 1 + RAID 0, 镜像上的条带化。
