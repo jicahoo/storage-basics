@@ -81,6 +81,12 @@ https://www.seagate.com/files/www-content/product-content/pulsar-fam/_cross-prod
 
 # 半导体
 * http://m.elecfans.com/article/928703.html
+* https://zhuanlan.zhihu.com/p/35957320
+
+# 压缩与硬件
+* QAT Intel (ASIC?) (vs FPGA)
+* https://www.snia.org/sites/default/files/SDC/2018/presentations/NVMe/Fard_Saeed_FPGA-Based_ZLIB_GZIP_Compression_as_an_NVMe_Namespace.pdf
+* https://www.usenix.org/system/files/atc19-hu.pdf
 
 # RAID技术
 * 基本概念和手段：数据冗余（镜像，校验码），并发读写（条带化-stripe).
